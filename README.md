@@ -2,7 +2,7 @@
 # Geopanap Application
 
 
-The Geopanap application is a semi-governmental platform designed to streamline and manage various processes related to land leases and environmental compliance. It provides a comprehensive solution for land management, customer relations, and regulatory compliance in the context of mineral exploration and extraction activities.
+The Geopanap application is a semi-government platform designed to streamline and manage various processes related to land leases and environmental compliance. It provides a comprehensive solution for land management, customer relations, and regulatory compliance in the context of mineral exploration and extraction activities.
 
 
 
