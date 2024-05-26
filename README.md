@@ -29,7 +29,7 @@ The Geopanap application facilitates the management of land leases, customer inf
 - **Environmental Compliance Tracking**: Facilitates the tracking of environmental compliance records, including expiration dates, status updates, and regulatory documentation.
 - **Regulatory Documentation Management**: Offers functionalities for storing and managing regulatory documents related to mineral exploration and extraction activities.
 - **User Authentication and Access Control**: Implements user authentication mechanisms and access controls to ensure data security and integrity.
-- **Store password in database using Encryption
+- Store password in database using Encryption
 
 ## Technologies Used
 
